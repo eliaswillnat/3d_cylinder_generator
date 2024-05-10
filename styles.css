@@ -1,0 +1,18 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	color: #FFFFFF;
+}
+
+#sliderContainer {
+			position: absolute;
+			bottom: 10px;
+			width: 100%;
+			text-align: center;
+}
+
+#sliderContainer label,
+#sliderContainer input {
+	display: block;
+	margin: auto;
+	text-align: center;
+}
